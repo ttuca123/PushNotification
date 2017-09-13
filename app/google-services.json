@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "440667538090",
+    "firebase_url": "https://push-notification-f57e2.firebaseio.com",
+    "project_id": "push-notification-f57e2",
+    "storage_bucket": "push-notification-f57e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440667538090:android:fac801eaf423c71c",
+        "android_client_info": {
+          "package_name": "com.mobile.zenus.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440667538090-aiktgos8m9gdqb4v87t2orsr51eopu3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmNHKX7f5mLm1RubAunrW1uXQuRJkks1w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
